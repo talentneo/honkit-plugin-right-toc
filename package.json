@@ -1,0 +1,10 @@
+{
+  "name": "honkit-plugin-right-toc",
+  "version": "1.0.0",
+  "description": "Render a right-side heading table of contents for HonKit pages.",
+  "main": "index.js",
+  "engines": {
+    "honkit": ">1.x.x"
+  },
+  "license": "MIT"
+}
